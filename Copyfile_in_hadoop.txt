@@ -1,0 +1,25 @@
+Create a text file using text editor on the desktop with content and rename it as foo.txt.
+
+To move the file from local disk to the hafs use the following command:
+
+→hat's afs -movefromLocal Desktop/foo txt /testt
+
+(01)
+
+→hats dfs -put Thome/hadoop/Desktop/ foo.txt /testt
+
+(D)
+
+→hats dts-copy From Local /home/hadoop/ Desktop/too Ixt restt
+
+To view the contents of the moved file use the following command:
+
+hais dts-cal abc Iteste/foo txt
+
+To di move file from hats directory to local
+
+→hats dfs-copy ToLocal /testt/text. Txt Chome /hadoop/Desktop/
+
+(01)
+
+→hats alts -get /testt/text.txt homel hadoop/Desktop
